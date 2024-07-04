@@ -1,6 +1,34 @@
-### Here I have upload the flow diagram for all the stages of projects 
--> Conceptual Diagram
--> Improved Architecture and flow-diagram 
-->Shuffle automation diagram for MIMAKATZ
--> Shuffle automation diagram for IP blocking 
--> 
+# Project Flow Diagrams
+
+Here are the flow diagrams depicting various stages and components of the project.
+
+## Conceptual Diagram
+
+![Conceptual Diagram](link/to/conceptual-diagram.png)
+
+Brief description or overview of the conceptual diagram.
+
+## Improved Architecture and Flow Diagram
+
+![Improved Architecture and Flow Diagram](link/to/improved-architecture-diagram.png)
+
+Brief description or overview of the improved architecture and flow diagram.
+
+## Shuffle Automation Diagram for MIMIKATZ
+
+![Shuffle Automation Diagram for MIMIKATZ](link/to/mimikatz-automation-diagram.png)
+
+Brief description or overview of how Shuffle automates MIMIKATZ detection and response.
+
+## Shuffle Automation Diagram for IP Blocking
+
+![Shuffle Automation Diagram for IP Blocking](link/to/ip-blocking-automation-diagram.png)
+
+Brief description or overview of how Shuffle automates IP blocking.
+
+## Additional Diagram (if applicable)
+
+![Additional Diagram](link/to/additional-diagram.png)
+
+Brief description or overview of the additional diagram.
+
