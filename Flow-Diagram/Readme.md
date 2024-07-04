@@ -16,7 +16,7 @@ Brief description or overview of the improved architecture and flow diagram.
 
 ## Shuffle Automation Diagram for MIMIKATZ
 
-![Shuffle Automation Diagram for MIMIKATZ](link/to/mimikatz-automation-diagram.png)
+![Shuffle Automation Diagram for MIMIKATZ](https://github.com/Shivashockwave6/SOAR-Wazuh-Endpoint-Defense/blob/main/Flow-Diagram/Shuffle%20Automation%20Diagram%20for%20MIMIKATZ.png)
 
 Brief description or overview of how Shuffle automates MIMIKATZ detection and response.
 
