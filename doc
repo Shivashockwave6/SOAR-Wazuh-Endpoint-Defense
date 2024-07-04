@@ -1,0 +1,6 @@
+Installation.md: Detailed step-by-step instructions on setting up the project environment, including prerequisites and installation of components on both Windows and Ubuntu.
+Configuration.md: Instructions on configuring each component such as Wazuh Manager, Elasticsearch, TheHive, and Shuffle.
+Implementation.md: Detailed guide on implementing automation tasks like MIMIKATZ detection, IP blocking, and integration with VirusTotal API using scripts and configuration files.
+Test_Cases.md: Documentation of various test cases such as phishing detection and malware analysis, including how to execute and interpret results.
+Manual.md: A comprehensive user manual for SOC analysts or users detailing how to operate the system for incident response and management.
+Additional_Details.md: Any extra information, troubleshooting tips, or advanced configurations not covered elsewhere.
