@@ -1,0 +1,59 @@
+# Wazuh Manager configuration
+
+wazuh:
+  # Wazuh Manager IP or hostname
+  address: "wazuh-manager-ip"
+
+  # Wazuh Manager port
+  port: 55000
+
+  # API credentials for Wazuh Manager
+  username: "your-api-username"
+  password: "your-api-password"
+
+  # Encryption settings (optional)
+  tls:
+    enabled: true
+    ca_cert: "/var/ossec/etc/sslmanager.cert"
+
+# Wazuh Agent configuration
+
+agent:
+  # Wazuh Manager IP or hostname
+  address: "wazuh-manager-ip"
+
+  # Registration settings
+  registration:
+    # Agent name
+    name: "agent1"
+    # Wazuh Manager registration key
+    key: "your-registration-key"
+
+  # Configuration settings
+  local:
+    # Log analysis
+    log_analysis:
+      - name: "sysmon"
+        path: "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-Sysmon/Operational.evtx"
+        exclude: [".*\\.gz$", ".*\\.zip$"]
+
+    # Active response (example for firewall drop)
+    active_response:
+      - command: "firewall-drop"
+        timeout: 600
+        expect: "Firewall rule added"
+
+# Integrations (example with TheHive)
+integrations:
+  - name: "thehive"
+    api_url: "http://thehive-ip:9000/api"
+    api_key: "your-api-key"
+    max_retry: 3
+    timeout: 10
+    verify_certs: false
+
+# Logging configuration (adjust levels as needed)
+logging:
+  level:
+    console: "info"
+    file: "info"
