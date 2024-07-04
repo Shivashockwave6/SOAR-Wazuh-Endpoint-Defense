@@ -10,7 +10,7 @@ Brief description or overview of the conceptual diagram.
 
 ## Improved Architecture and Flow Diagram
 
-![Improved Architecture and Flow Diagram](link/to/improved-architecture-diagram.png)
+![Improved Architecture and Flow Diagram](https://github.com/Shivashockwave6/SOAR-Wazuh-Endpoint-Defense/blob/main/Flow-Diagram/Improved%20Architecture%20and%20Flow%20Diagram.png)
 
 Brief description or overview of the improved architecture and flow diagram.
 
