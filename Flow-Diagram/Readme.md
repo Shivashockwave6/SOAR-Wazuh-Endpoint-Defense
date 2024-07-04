@@ -22,7 +22,7 @@ Brief description or overview of how Shuffle automates MIMIKATZ detection and re
 
 ## Shuffle Automation Diagram for IP Blocking
 
-![Shuffle Automation Diagram for IP Blocking](link/to/ip-blocking-automation-diagram.png)
+![Shuffle Automation Diagram for IP Blocking](https://github.com/Shivashockwave6/SOAR-Wazuh-Endpoint-Defense/blob/main/Flow-Diagram/Shuffle%20Automation%20Diagram%20for%20IP%20Blocking.png)
 
 Brief description or overview of how Shuffle automates IP blocking.
 
