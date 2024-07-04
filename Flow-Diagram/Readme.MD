@@ -4,7 +4,7 @@ Here are the flow diagrams depicting various stages and components of the projec
 
 ## Conceptual Diagram
 
-![Conceptual Diagram](link/to/conceptual-diagram.png)
+![Conceptual Diagram](https://github.com/Shivashockwave6/SOAR-Wazuh-Endpoint-Defense/blob/main/Flow-Diagram/Conceptual%20Diagram.jpg)
 
 Brief description or overview of the conceptual diagram.
 
